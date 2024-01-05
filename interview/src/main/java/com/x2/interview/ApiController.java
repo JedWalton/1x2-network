@@ -20,6 +20,6 @@ public class ApiController {
                 "  /                             |\n" +
                 " /                               |\n" +
                 "|                                 |\n\n" +
-                "\n";
+                "Thank you for your time and have a nice day!\n";
     }
 }
